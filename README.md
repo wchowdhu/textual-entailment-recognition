@@ -36,7 +36,7 @@ We also use augmented data in the form of back-translations and auxilary dataset
 
 # Code
 
-All the notebook files (with cell outputs) and Python scripts are provided in the `notebooks` and `scripts` directories to get started with the project. 
+All the notebook files (with cell outputs) and Python scripts are provided in the `notebooks` and `scripts` directories to get started with the project. The `nli_with_transformers_tutorial.ipynb` is a hands-on tutorial to implement the baseline models.
 
 
 # Run
