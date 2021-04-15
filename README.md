@@ -49,6 +49,9 @@ To run the python script files:
 python scripts/run.py --train-file 'data/train.csv' --test-file 'data/test.csv'
 ```
 
+To generate the back-translations and save them in a csv file, run the `back-translation.ipynb` or the `back-translation_textblob.ipynb` notebook files.
+
+
 # Outputs
 
 All the model outputs can be found in the `output` directory.
