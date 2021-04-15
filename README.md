@@ -51,7 +51,7 @@ python scripts/run.py --train-file 'data/train.csv' --test-file 'data/test.csv'
 
 # Outputs
 
-All the model outputs can be found in the 'output' directory.
+All the model outputs can be found in the `output` directory.
 
 
 
