@@ -1,0 +1,10 @@
+torch
+torch_xla
+transformers
+pandas
+numpy
+sklearn
+datasets
+googletrans
+time
+tqdm
