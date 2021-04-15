@@ -1,6 +1,6 @@
-# Textual Entailment Classification in Resource Constrained Languages using Transfer Learning and Data Augmentation 
+# Textual Entailment Classification using Transfer Learning and Data Augmentation 
 
-Kaggle has initiated a competition, [Contradictory, My Dear Watson](https://www.kaggle.com/c/contradictory-my-dear-watson/overview), to challenge machine learning practitioners to build a system that automatically classifies how pairs of sentences are related from texts in fifteen different languages. The aim of this capstone project is to create a multi-class classification model using transfer learning and data augmentation. 
+Kaggle has initiated a competition, [Contradictory, My Dear Watson](https://www.kaggle.com/c/contradictory-my-dear-watson/overview), to challenge machine learning practitioners to build a system that automatically classifies how pairs of sentences are related from texts in 15 different languages. The aim of this capstone project is to create a multi-class classification model using transfer learning and data augmentation. 
 
 The final model yields an accuracy of 94% on the test dataset with a top 3% ranking currently in the leaderboard.
 
