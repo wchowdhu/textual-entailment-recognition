@@ -54,7 +54,7 @@ To generate the back-translations and save them in a csv file, run the `back-tra
 
 # Outputs
 
-All the model outputs can be found in the `output` directory.
+All the model outputs can be found in the `output` directory. The `predictoins/1` folder contains the model predictions using all the back-translations and `predictions/0.4` contains predictions using only 40% of the back-translated examples.
 
 
 
