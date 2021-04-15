@@ -26,8 +26,8 @@ The project requires Python 3.6 and the latest version of the following librarie
 
 The dataset consists of train and test files with the following format:
 
-train.csv: This file contains the ID, premise, hypothesis, and label, as well as the language of the text and its two-letter abbreviation
-test.csv: This file contains the ID, premise, hypothesis, language, and language abbreviation, without labels.
+- train.csv: This file contains the ID, premise, hypothesis, and label, as well as the language of the text and its two-letter abbreviation
+- test.csv: This file contains the ID, premise, hypothesis, language, and language abbreviation, without labels.
 
 We also use augmented data in the form of back-translations and auxilary datasets XNLI and MNLI. The `data` directory contains the necessary files.
  
