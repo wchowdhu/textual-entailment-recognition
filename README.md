@@ -8,7 +8,7 @@ The final report with model visualizations and validation plots can be accessed 
 
 
 
-# Install
+# Dependencies
 
 The project requires Python 3.6 and the latest version of the following libraries installed:  
   - [numpy](https://numpy.org/)
@@ -20,6 +20,8 @@ The project requires Python 3.6 and the latest version of the following librarie
   - [datasets](https://github.com/huggingface/datasets)
   - [PyTorch](https://pytorch.org/)
   - [tensorflow](https://www.tensorflow.org/install)
+ 
+To train the models, Tensor Processing Units or TPUs with 8 cores were used. TPUs are hardware accelerators specialized in deep learning tasks and are available to use for free in Kaggle. All the implementations were performed in both Tensorflow and Pytorch frameworks with Python programming language.
 
 
 # Data
