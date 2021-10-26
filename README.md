@@ -1,4 +1,4 @@
-# Textual Entailment Classification using Transfer Learning and Data Augmentation 
+# Textual Entailment Recognition using Transfer Learning and Data Augmentation 
 
 Kaggle has initiated a competition, [Contradictory, My Dear Watson](https://www.kaggle.com/c/contradictory-my-dear-watson/overview), to challenge machine learning practitioners to build a system that automatically classifies how pairs of sentences are related from texts in 15 diverse and under-represented languages. The aim of this capstone project is to create a multi-class classification system to detect entailment and contradiction in multi-lingual text using transfer learning and data augmentation. 
 
