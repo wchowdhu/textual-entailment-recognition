@@ -24,22 +24,9 @@ The project requires Python 3.6 and the latest version of the following librarie
 To train the models, Tensor Processing Units or TPUs with 8 cores were used. TPUs are hardware accelerators specialized in deep learning tasks and are available to use for free in Kaggle. All the implementations were performed in both Tensorflow and Pytorch frameworks with Python programming language.
 
 
-# Data
-
-The dataset consists of total 15,620 images. 
  
 
-# Code
 
-All the notebook files (with cell outputs) and Python scripts are provided  
-
-
-# Run
-
-Use the following command to train and evaluate the model:
-```
-jupyter notebook run.ipynb
-```
 
 
 
