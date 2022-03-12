@@ -26,37 +26,21 @@ To train the models, Tensor Processing Units or TPUs with 8 cores were used. TPU
 
 # Data
 
-The dataset consists of train and test files with the following format:
-
-- train.csv: This file contains the ID, premise, hypothesis, and label, as well as the language of the text and its two-letter abbreviation
-- test.csv: This file contains the ID, premise, hypothesis, language, and language abbreviation, without labels.
-
-We also use augmented data in the form of back-translations and auxilary datasets XNLI and MNLI. The `data` directory contains the necessary files.
+The dataset consists of total 15,620 images. 
  
 
 # Code
 
-All the notebook files (with cell outputs) and Python scripts are provided in the `notebooks` and `scripts` directories to get started with the project. The [nli_with_transformers_tutorial.ipynb](https://github.com/wchowdhu/udacity-capstone-project/blob/main/notebooks/nli_with_transformers_tutorial.ipynb) is a hands-on tutorial notebook to implement the baseline models.
+All the notebook files (with cell outputs) and Python scripts are provided  
 
 
 # Run
 
-To open the .ipynb files in your browser and look at the output of the completed cells, use the following command in your terminal after changing the working directory to the project directory `udacity-capstone-project`:
+Use the following command to train and evaluate the model:
 ```
-jupyter notebook <file_name>.ipynb
-```
-
-To run the python script files:
-```
-python scripts/run.py --train-file 'data/train.csv' --test-file 'data/test.csv'
+jupyter notebook run.ipynb
 ```
 
-To generate the back-translations and save them in a csv file, run the `back-translation.ipynb` or the `back-translation_textblob.ipynb` notebook files.
-
-
-# Outputs
-
-All the model outputs can be found in the `output` directory. The `predictions/1` folder contains the model predictions using all the back-translations and `predictions/0.4` contains predictions using only 40% of the back-translated examples.
 
 
 
