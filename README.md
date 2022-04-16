@@ -6,6 +6,8 @@ The final model yields an accuracy of 94% on the test dataset with a top 3% rank
 
 The final report with model visualizations and validation plots can be accessed [here](https://github.com/wchowdhu/udacity-capstone-project/blob/main/report/report.pdf).
 
+For a step-by-step guide to textual entailment, use [notebook](https://www.kaggle.com/code/wchowdhu/a-beginner-s-tutorial-on-textual-entailment)
+
 
 
 # Dependencies
