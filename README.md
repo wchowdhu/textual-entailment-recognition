@@ -10,7 +10,7 @@ For a beginner's tutorial on implementing a baseline model for textual entailmen
 
 
 
-# Dependencies
+## Dependencies
 
 The project requires Python 3.6 and the latest version of the following libraries installed:  
   - [numpy](https://numpy.org/)
