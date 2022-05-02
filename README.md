@@ -25,19 +25,21 @@ The project requires Python 3.6 and the latest version of the following librarie
  
 To train the models, Tensor Processing Units or TPUs with 8 cores were used. TPUs are hardware accelerators specialized in deep learning tasks and are available to use for free in Kaggle. All the implementations were performed in both Tensorflow and Pytorch frameworks with Python programming language.
 
+
 ## Code
 
 The `notebook` folder contains all the Jupyter notebook files consisting of the baselines, data augmentation, and fine tuning.
 The `scripts` folder contains code to train the models.
 
+
 ## Run
 
-Run the python files from `script` directory using the following command and adding the necessary argument values:
+Run the python files from `scripts` directory using the following command and adding the necessary argument values:
 
     python run.py --train-file data/train.csv --test-file data/test.csv --bt-file data/back_translation_all.csv
 
 
-To open the .ipynb files in your browser and look at the output of the completed cells, use the following command in your terminal after changing the working directory to the project `directory textual-entailment-recognition/notebook`:
+To open the .ipynb files in your browser and look at the output of the completed cells, use the following command in your terminal after changing the working directory to the project `directory textual-entailment-recognition/notebooks`:
 
     jupyter notebook <file_name>.ipynb
 
