@@ -46,6 +46,11 @@ To open the .ipynb files in your browser and look at the output of the completed
 
 ## Results
 
+In this project, the performance of the trained model was evaluated across the output classes, languages, and language families. 
+[Report](https://github.com/wchowdhu/udacity-capstone-project/blob/main/report/report.pdf) contains an in-depth analysis.
+
+
+
  
 
 
