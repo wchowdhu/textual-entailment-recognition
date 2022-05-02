@@ -34,13 +34,13 @@ The `scripts` folder contains code to train the models.
 
 Run the python files from `script` directory using the following command and adding the necessary argument values:
 
-python run.py --train-file data/train.csv --test-file data/test.csv --bt-file data/back_translation_all.csv
+    python run.py --train-file data/train.csv --test-file data/test.csv --bt-file data/back_translation_all.csv
 
 
 To open the .ipynb files in your browser and look at the output of the completed cells, use the following command in your terminal after changing the working directory to the project directory textual-entailment-recognition
 /notebook:
 
-jupyter notebook <file_name>.ipynb
+    jupyter notebook <file_name>.ipynb
 
 
 ## Results
