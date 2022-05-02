@@ -37,8 +37,7 @@ Run the python files from `script` directory using the following command and add
     python run.py --train-file data/train.csv --test-file data/test.csv --bt-file data/back_translation_all.csv
 
 
-To open the .ipynb files in your browser and look at the output of the completed cells, use the following command in your terminal after changing the working directory to the project directory textual-entailment-recognition
-/notebook:
+To open the .ipynb files in your browser and look at the output of the completed cells, use the following command in your terminal after changing the working directory to the project `directory textual-entailment-recognition/notebook`:
 
     jupyter notebook <file_name>.ipynb
 
