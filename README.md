@@ -25,6 +25,11 @@ The project requires Python 3.6 and the latest version of the following librarie
  
 To train the models, Tensor Processing Units or TPUs with 8 cores were used. TPUs are hardware accelerators specialized in deep learning tasks and are available to use for free in Kaggle. All the implementations were performed in both Tensorflow and Pytorch frameworks with Python programming language.
 
+## Data
+The data files can be accessed from the `Data` folder. The following figure displays the data augmentation workflow used to improve model performance across all the languages and language families.
+
+<img src="figures/data_augmentation_workflow.png">
+
 
 ## Code
 
