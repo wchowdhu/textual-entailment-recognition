@@ -2,7 +2,7 @@
 
 Kaggle has initiated a competition, [Contradictory, My Dear Watson](https://www.kaggle.com/c/contradictory-my-dear-watson/overview), to challenge machine learning practitioners to build a system that automatically classifies how pairs of sentences are related from texts in 15 diverse and under-represented languages. The aim of this capstone project is to create a multi-class classification system to detect entailment and contradiction in multi-lingual text using transfer learning and data augmentation. 
 
-The final model yields an accuracy of 94% on the test dataset with a top 3% ranking on the leaderboard at the time of the competition.
+The final model yields an accuracy of 94% on the test dataset with a top 3% ranking on the [leaderboard](https://www.kaggle.com/competitions/contradictory-my-dear-watson/leaderboard#) at the time of the competition.
 
 The final report with model visualizations and validation plots can be accessed [here](https://github.com/wchowdhu/udacity-capstone-project/blob/main/report/report.pdf).
 
